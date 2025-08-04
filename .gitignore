@@ -13,3 +13,8 @@ node_modules/
 # Ignore compiled files
 *.pyc
 *.log
+
+__pycache__/
+*.pyc
+.env
+.vscode/
