@@ -6,9 +6,9 @@ on:
       - main
 
 env:
-  AZURE_WEBAPP_NAME: flask-cicd-keenan  # must match Bicep app name param
-  AZURE_RESOURCE_GROUP: flask-cicd-rg
-  AZURE_REGION: eastus
+  AZURE_WEBAPP_NAME: flaskidqkbkqkfcbzi  # must match Bicep app name param
+  AZURE_RESOURCE_GROUP: cicdrgcentral
+  AZURE_REGION: CentralUS 
 
 jobs:
   build-and-deploy:
